@@ -1,0 +1,35 @@
+.hello {
+    color: #000;
+}
+.questionShowButton{
+    /**/
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid #4e84db;
+    padding: 0px; 
+    background: #ffffff;
+    border-radius: 12px;
+    -moz-user-select: none; 
+    -khtml-user-select: none; 
+    -webkit-user-select: none;
+    -ms-user-select: none; user-select: none;
+}
+.survetQuestion{
+    left: 40px;
+    top: 1px;
+    width: auto;
+    max-width: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid #4e84db;
+    border-radius: 12px;
+    background: #ffffff;
+    text-align: left;
+    z-index: 11;
+}
+/*# sourceMappingURL=app.css.map*/
